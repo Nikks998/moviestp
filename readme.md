@@ -6,6 +6,6 @@
 
 ### - Fernando Torrez
 
-### - Lucas Pausin, 23 años, Buenos Aires.
+### - Lucas Pausin
 
 ### - Rodrigo Vallejos
