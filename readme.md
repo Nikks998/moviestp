@@ -1,7 +1,11 @@
 # TRABAJO PRACTICO DE MOVIES
 
-## Integrantes: 
-### - Matias Caceres 
-### - Fernando Torrez 
-### - Lucas Pausin 
-### - Rodrigo Vallejos 
+## Integrantes:
+
+### - Matias Caceres
+
+### - Fernando Torrez
+
+### - Lucas Pausin, 23 años, Buenos Aires.
+
+### - Rodrigo Vallejos
