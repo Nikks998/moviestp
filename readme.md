@@ -2,7 +2,7 @@
 
 ## Integrantes:
 
-### - Matias Caceres
+### - Matias Caceres   | 25 | Prov. Buenos Aires
 
 ### - Fernando Torrez - edad: 27 - Ciudad: Buenos Aires
 
