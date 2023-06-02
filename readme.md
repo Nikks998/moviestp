@@ -4,4 +4,4 @@
 ### - Matias Caceres 
 ### - Fernando Torrez 
 ### - Lucas Pausin 
-### - Rodrigo Vallejos 
+### - Rodrigo Vallejos | 30 | Rosario
