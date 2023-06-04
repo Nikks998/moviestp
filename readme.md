@@ -8,4 +8,4 @@
 
 ### - Lucas Pausin 23 años, Buenos Aires
 
-### - Rodrigo Vallejos | 30 | Rosario
+### - Rodrigo Vallejos | 30 | Santa Fe
